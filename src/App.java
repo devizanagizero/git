@@ -8,6 +8,7 @@ public class App {
         System.out.println("jaja");
         System.out.println("bebe");
         int numero = 1;
+        int animal = 2;
 
     }
 }
