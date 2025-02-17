@@ -7,6 +7,7 @@ public class App {
         System.out.println("git");
         System.out.println("jaja");
         System.out.println("bebe");
+        int numero = 1;
 
     }
 }
